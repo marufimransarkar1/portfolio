@@ -26,7 +26,7 @@ export default function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          <h3 className="text-4xl md:text-5xl font-extrabold font-headline mb-8 leading-tight">
+          <h3 className="text-4xl text-center md:text-left md:text-5xl font-extrabold font-headline mb-8 leading-tight">
             Crafting Digital <br />
             <span className="text-gradient">Masterpieces</span>
           </h3>

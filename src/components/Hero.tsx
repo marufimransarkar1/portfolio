@@ -14,17 +14,17 @@ export default function Hero() {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="z-10 order-2 md:order-1"
         >
-          <h2 className="text-primary text-sm md:text-base font-medium tracking-[0.3em] uppercase mb-4">
+          <h2 className="text-primary text-sm text-center md:text-left md:text-base font-medium tracking-[0.3em] uppercase mb-4">
             Architecture of the Web
           </h2>
-          <h1 className="text-5xl lg:text-8xl font-extrabold font-headline leading-[1.1] mb-6 tracking-tight">
+          <h1 className="text-5xl text-center md:text-left lg:text-8xl font-extrabold font-headline leading-[1.1] mb-6 tracking-tight">
             Hello, I'm <br />
             <span className="text-gradient">Maruf Imran</span>
           </h1>
-          <p className="text-xl md:text-2xl font-light text-white/60 mb-8 max-w-lg">
+          <p className="text-xl text-center md:text-left md:text-2xl font-light text-white/60 mb-8 max-w-lg">
             Web Developer | React Expert | UI/UX Designer
           </p>
-          <div className="flex flex-wrap gap-4">
+          <div className="flex flex-wrap gap-4 justify-center md:justify-start">
             <a 
               href="#portfolio" 
               className="bg-gradient-primary text-background px-8 py-4 rounded-xl font-bold transition-all hover:shadow-[0_0_30px_rgba(143,245,255,0.3)] hover:scale-105 active:scale-95"

@@ -12,7 +12,7 @@ export default function Contact() {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <h2 className="text-5xl md:text-7xl font-bold font-headline mb-8 leading-tight">
+            <h2 className="text-2xl text-center md:text-left md:text-7xl font-bold font-headline mb-8 leading-tight">
               Let's build <br />something <span className="text-gradient">epic</span>.
             </h2>
             <p className="text-white/50 text-lg mb-12 max-w-md">

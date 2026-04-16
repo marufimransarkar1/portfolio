@@ -28,7 +28,7 @@ export default function Testimonials() {
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-center">
           <div className="lg:col-span-2">
-            <h2 className="text-4xl md:text-5xl font-bold font-headline mb-12">Client Feedbacks</h2>
+            <h2 className="text-4xl md:text-5xl text-center md:text-left font-bold font-headline mb-12">Client Feedbacks</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {testimonials.map((t, index) => (
                 <motion.div

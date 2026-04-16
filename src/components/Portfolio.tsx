@@ -26,9 +26,9 @@ export default function Portfolio() {
   return (
     <section id="portfolio" className="py-24 bg-surface-low px-6 md:px-12">
       <div className="max-w-7xl mx-auto">
-        <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
+        <div className="flex flex-col md:flex-row justify-between items-center mb-16 gap-6">
           <div>
-            <h3 className="text-sm uppercase tracking-[0.3em] text-secondary mb-4 font-medium">Showcase</h3>
+            <h3 className="text-sm text-center md:text-left uppercase tracking-[0.3em] text-secondary mb-4 font-medium">Showcase</h3>
             <h2 className="text-4xl md:text-6xl font-bold font-headline">Selected Works</h2>
           </div>
           <p className="text-white/40 max-w-md md:text-right">
