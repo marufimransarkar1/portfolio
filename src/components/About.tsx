@@ -39,11 +39,11 @@ export default function About() {
           
           <div className="grid grid-cols-2 gap-6">
             <div className="glass-card p-6 rounded-2xl">
-              <div className="text-4xl font-bold text-primary mb-1">50+</div>
+              <div className="text-4xl font-bold text-primary mb-1">15+</div>
               <div className="text-xs uppercase tracking-widest text-white/40 font-medium">Projects Done</div>
             </div>
             <div className="glass-card p-6 rounded-2xl">
-              <div className="text-4xl font-bold text-secondary mb-1">04+</div>
+              <div className="text-4xl font-bold text-secondary mb-1">02+</div>
               <div className="text-xs uppercase tracking-widest text-white/40 font-medium">Years Exp</div>
             </div>
           </div>

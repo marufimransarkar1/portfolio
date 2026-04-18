@@ -3,7 +3,7 @@ import { Code2, Globe, Palette, Layers } from 'lucide-react';
 
 const services = [
   {
-    title: 'React Development',
+    title: 'MERN Stack Development',
     description: 'Building lightning-fast single-page applications with modern hooks and state management.',
     icon: Code2,
     color: 'text-primary'
