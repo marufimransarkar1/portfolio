@@ -22,7 +22,7 @@ export default function Hero() {
             <span className="text-gradient">Maruf Imran</span>
           </h1>
           <p className="text-xl text-center md:text-left md:text-2xl font-light text-white/60 mb-8 max-w-lg">
-            Web Developer | React Expert | UI/UX Designer
+            Web Developer | React Expert | Wordpress Expert
           </p>
           <div className="flex flex-wrap gap-4 justify-center md:justify-start">
             <a 
