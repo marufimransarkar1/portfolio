@@ -53,7 +53,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-primary rounded-full blur-3xl opacity-20 animate-pulse" />
             <div className="relative z-10 w-full h-full rounded-full border-4 border-white/10 overflow-hidden shadow-2xl">
               <img
-                src="/model.webp"
+                src="/model.png"
                 alt="Maruf Imran"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
